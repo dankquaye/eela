@@ -1,2 +1,2 @@
 # eela
-Trained model for suynthetic indices
+Trained model for synthetic indices
